@@ -1,0 +1,96 @@
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Jose\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Jose\Documents\GitHub\Practica2_Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Juan Velasco\Desktop\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Juan Velasco\Desktop\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Juan Velasco\Desktop\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Juan Velasco\Desktop\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Juan Velasco\Desktop\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Juan Velasco\Desktop\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Juan Velasco\Desktop\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Juan Velasco\Desktop\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Juan Velasco\Desktop\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Juan Velasco\Desktop\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Juan Velasco\Desktop\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Juan Velasco\Desktop\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Juan Velasco\Desktop\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Juan Velasco\Desktop\Nuevos-Paradigmas-Iteracci-n-master\pr-2\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Juan Velasco\Desktop\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Juan Velasco\Desktop\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Juan Velasco\Desktop\Marcolis-V2\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Juan Velasco\Desktop\Marcolis-V2\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Juan Velasco\Desktop\Marcolis-V2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Juan Velasco\Desktop\Marcolis-V2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Juan Velasco\Desktop\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Juan Velasco\Desktop\Marcolis-V2\obj\Debug\MainWindow.baml
+C:\Users\Juan Velasco\Desktop\Marcolis-V2\obj\Debug\MainWindow.g.cs
+C:\Users\Juan Velasco\Desktop\Marcolis-V2\obj\Debug\App.g.cs
+C:\Users\Juan Velasco\Desktop\Marcolis-V2\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Juan Velasco\Desktop\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Juan Velasco\Desktop\Marcolis-V2\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Juan Velasco\Desktop\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Asolisi\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Asolisi\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Asolisi\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Asolisi\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Asolisi\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Asolisi\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Asolisi\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Asolisi\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\MainWindow.baml
+C:\Users\Asolisi\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\MainWindow.g.cs
+C:\Users\Asolisi\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\App.g.cs
+C:\Users\Asolisi\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Asolisi\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Asolisi\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Asolisi\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Juan Velasco\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Juan Velasco\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Juan Velasco\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Juan Velasco\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Juan Velasco\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Juan Velasco\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Juan Velasco\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Juan Velasco\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\MainWindow.baml
+C:\Users\Juan Velasco\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\MainWindow.g.cs
+C:\Users\Juan Velasco\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\App.g.cs
+C:\Users\Juan Velasco\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Juan Velasco\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Juan Velasco\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Juan Velasco\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Migue\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Migue\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Marcolis-V2\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Juan Velasco\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Practica1\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Juan Velasco\Dropbox\LPB\5º curso\Nuevos paradigmas de interaccion\Practica_Markolis\Practica1\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Jose\Desktop\Practica1\Practica1\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Jose\Desktop\Practica1\Practica1\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Jose\Desktop\Practica1\Practica1\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Jose\Desktop\Practica1\Practica1\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Jose\Desktop\Practica1\Practica1\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\Practica1\Practica1\obj\Debug\MainWindow.baml
+C:\Users\Jose\Desktop\Practica1\Practica1\obj\Debug\MainWindow.g.cs
+C:\Users\Jose\Desktop\Practica1\Practica1\obj\Debug\App.g.cs
+C:\Users\Jose\Desktop\Practica1\Practica1\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Jose\Desktop\Practica1\Practica1\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Jose\Desktop\Practica1\Practica1\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Jose\Desktop\Practica1\Practica1\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
